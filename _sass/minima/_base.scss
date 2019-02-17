@@ -133,8 +133,6 @@ blockquote {
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   max-width: 38em;
-  width: auto;
-  text-align: center;
   display: inline-block;
 
   //font-style: italic;

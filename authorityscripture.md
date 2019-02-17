@@ -12,7 +12,7 @@ permalink: /about/
 >
 > The opinions of learned men, the deductions of science, the creeds or decisions of ecclesiastical councils, as numerous and discordant as are the churches which they represent, the voice of the majority—not one nor all of these should be regarded as evidence for or against any point of religious faith. Before accepting any doctrine or precept, we should demand a plain “Thus saith the Lord” in its support. 
 
-<p style="text-align: right">
+<p style="text-align: center">
 -- The Great Controversy, <a href="https://m.egwwritings.org/en/book/132.2680"><i>"The Scriptures a Safeguard"</i></a></p>
 
 These verses are in no particular order; they are merely here to reveal the authority and importance of scripture from the Bible. Commentary is limited, and intended only to help draw out the principle from the text.

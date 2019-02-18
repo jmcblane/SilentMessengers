@@ -9,8 +9,8 @@ Herein is an outline which I prepared for a study group. I pray this is helpful 
 For a more detailed treatment of this subject, the following resource is highly recommended:
 
 **Stephen Bohr: Anchor Class on Hebrew Feasts**  
-Video: https://tinyurl.com/bohrfeasts  
-Written notes: https://tinyurl.com/bohrfeastnotes
+Video: <a>https://tinyurl.com/bohrfeasts</a><br />
+Written notes: <a>https://tinyurl.com/bohrfeastnotes</a>
 
 ![Hebrew Festal Calendar](/assets/Feasts.gif)
 

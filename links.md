@@ -4,6 +4,12 @@ title: Resources
 permalink: /resources/
 ---
 
+# Documents
+
+[Topical Bible Studies](https://drive.google.com/open?id=1QtWLIwZrN-7h34fDkmDMt-Wu258Fimr5) | [Sanctuary Study Guide](https://drive.google.com/open?id=1XMiPRqFNrB-x2giWD1KLF8MX9pD3MATKJzg_OAxsggY) | [The Laver and the Daily](https://drive.google.com/open?id=1tp6Axrm5iB30CbW9I9lJhutaGnDIyVaJ) | [Messiah of Prophecy](https://drive.google.com/open?id=1Vu1psOvTJXaDHRM6-SkFekle_OygIPTW)
+[Hellfire](https://drive.google.com/open?id=1LW9QcRI5n7lPFXhLwa366KasEceS99Eh) | [Views Of Sanctification, Charles Fitch](https://drive.google.com/open?id=1ysFSDDWakJbaeagD6KDRIdR7zHNZYfu8) | [Lessons on Faith, Jones and Waggoner](https://drive.google.com/open?id=1xx_A6o8IDnDbW5eCE2cb_CgRtmj-4kci) | [In the Spirit's Power, W.W.Prescott](https://drive.google.com/open?id=1Lh8-gQeKN7bwGUjQp2qlaHB91xWTtUjr) 
+[The Evolution Handbook, Vance Ferrell](https://drive.google.com/open?id=1LrffqDtDOtx6UyAU-NaO65SIP4ODSNue) | [Fathers of the Catholic Church, E.J. Waggoner](https://drive.google.com/open?id=0B7riwQiqkPFHSkUweUxvM3JHVGs) | [Introduction to Revelation](https://drive.google.com/open?id=1p2NAm_NL8r7kn-e5NoBz8PjvDbgDh9cX) | [Introduction to Revelation, part 2](https://drive.google.com/open?id=1FfS36sfZtFIbscArQGbiHvgDBL4CK6SM)
+
 # Documentaries
 
 <a href="https://www.revelationmystery.com"><img alt="Amazing Facts TV" src="/assets/rev_bbb.png" width="350"></a> <a href="https://www.youtube.com/watch?v=fPbNJhMq2To&t=8s"><img alt="A Lamp in the Dark: The Untold History of the Bible" src="/assets/alitd.jpg" width="350"></a>
@@ -29,7 +35,3 @@ permalink: /resources/
 
 
 [<img alt="truthLINK" src="/assets/logos/truthlink.png" width="350">](https://truthlink.org/) [<img alt="Voice of Prophecy" src="/assets/logos/vop.png" width="350">](https://www.voiceofprophecy.com/bible-studies)
-
-# Books and Articles
-
-To Be Expanded...

@@ -19,7 +19,7 @@ email: jacobmcblane@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Sharing the gospel through the printed page.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://silentmessengers.org" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jmcblane
 #youtube_username: 
 

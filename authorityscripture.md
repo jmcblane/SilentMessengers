@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Authority of Scripture
-permalink: /about/
+permalink: /scripture/
 ---
 
 > “To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.” -- Isaiah 8:20.

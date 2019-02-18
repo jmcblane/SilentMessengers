@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  //max-width: 38em;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -24,6 +25,9 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 
@@ -45,6 +49,7 @@ ul, ol, dl, figure,
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  max-width: 38em;
 }
 
 
@@ -127,18 +132,20 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #2f3030;
-  background: #efefef;
-  border-left: 4px solid $grey-color-light;
+  color: #1a1a1a;
+  background: #deefef;
+  border-left: 4px solid #658f8f;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  @include relative-font-size(0.9);
+  //letter-spacing: px;
   max-width: 28em;
+  position: relative;
+  left: 7%;
 
   //font-style: italic;
 
   > :last-child {
-    margin-bottom: 0;
+    margin-bottom: 5px;
   }
 }
 

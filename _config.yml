@@ -17,7 +17,7 @@ title: Silent Messengers
 author: "Jacob McBlane"
 email: jacobmcblane@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Publications must be multiplied, and scattered like the leaves of autumn. These silent messengers are enlightening and molding the minds of thousands in every country and in every clime.
+    Publications must be multiplied, and scattered like the leaves of autumn. These silent messengers are enlightening and molding the minds of thousands...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://silentmessengers.org" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jmcblane

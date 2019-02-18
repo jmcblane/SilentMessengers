@@ -15,7 +15,7 @@ permalink: /about/
 <p style="text-align: center">
 -- The Great Controversy, <a href="https://m.egwwritings.org/en/book/132.2680"><i>"The Scriptures a Safeguard"</i></a></p>
 
-These verses are in no particular order; they are merely here to reveal the authority and importance of scripture from the Bible. Commentary is limited, and intended only to help draw out the principle from the text.
+These verses are in no particular order; they are merely here to reveal the authority and importance of scripture from the Bible. In many respects, I have saved the strongest and most often quoted scriptures for last. Commentary is limited, and intended only to help draw out the principle from the text.
 
 ## Daniel 10:21
 > But I will shew thee that which is noted in **the scripture of truth**: and there is none that holdeth with me in these things, but Michael your prince.

@@ -4,12 +4,9 @@ title: Resources
 permalink: /resources/
 ---
 
-<a href="#live">2/7 Live Broadcasts</a><br />
-<a href="#series">Video Series</a><br />
-<a href="#study">Study Materials</a>
+# Documentaries
 
-
-[<img alt="Amazing Facts TV" src="/assets/rev_bbb.png" width="350">](https://www.revelationmystery.com/)
+<a href="https://www.revelationmystery.com"><img alt="Amazing Facts TV" src="/assets/rev_bbb.png" width="350"></a> <a href="https://www.youtube.com/watch?v=fPbNJhMq2To&t=8s"><img alt="A Lamp in the Dark: The Untold History of the Bible" src="/assets/alitd.jpg" width="350"></a>
 
 <div id="live" />
 # 24/7 Live
@@ -28,4 +25,11 @@ permalink: /resources/
 <div id="study" />
 # Study Materials
 
-[<img alt="AmazingFacts.org" src="/assets/logos/about-amazing-facts.jpg" width="350">](http://www.amazingfacts.com)
+[<img alt="AmazingFacts Bible Studies" src="/assets/logos/about-amazing-facts.jpg" width="350">](https://www.amazingfacts.org/media-library/read/c/2/t/bible-study-guides) [<img alt="Storacles of Prophecy" src="/assets/logos/storacles.jpg" width="350">](https://www.amazingfacts.org/media-library/read/c/3/t/storacles)
+
+
+[<img alt="truthLINK" src="/assets/logos/truthlink.png" width="350">](https://truthlink.org/) [<img alt="Voice of Prophecy" src="/assets/logos/vop.png" width="350">](https://www.voiceofprophecy.com/bible-studies)
+
+# Books and Articles
+
+To Be Expanded...

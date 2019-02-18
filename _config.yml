@@ -21,8 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://silentmessengers.org" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jmcblane
-#youtube_username: 
+#youtube_username: channel/UCZ6L_XihHmhY5DuA5FoZpkw
 
+minima:
+    social_links:
+        youtube_channel: UCZ6L_XihHmhY5DuA5FoZpkw
 # Build settings
 search: true
 markdown: kramdown

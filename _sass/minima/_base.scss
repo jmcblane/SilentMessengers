@@ -260,3 +260,26 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+a.site-title {font-weight: bold !important; color: #cdcdcd !important; }
+a.page-link { color: #cdcdcd !important; }
+.mine-header {
+    background: #2f2f2f;
+}
+
+footer {
+    background: #2f2f2f;
+    color: #cdcdcd !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.page-content {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    border-left: 3px solid #ececec !important;
+    border-right: 3px solid #ececec !important; }

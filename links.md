@@ -20,6 +20,8 @@ h1 {
 # Documents
 <hr><br />
 
+<a href="/assets/prophecychart.png"><img alt="Bible Prophecy Timeline" src="/assets/prophecychart.png" width="350"></a>
+
 [Topical Bible Studies](https://drive.google.com/open?id=1QtWLIwZrN-7h34fDkmDMt-Wu258Fimr5) | [Sanctuary Study Guide](https://drive.google.com/open?id=1XMiPRqFNrB-x2giWD1KLF8MX9pD3MATKJzg_OAxsggY) | [The Laver and the Daily](https://drive.google.com/open?id=1tp6Axrm5iB30CbW9I9lJhutaGnDIyVaJ) 
 [Our Authorized Bible Vindicated](http://www.sdadefend.com/Living-Word/Wilkinson/AuthorizedBibleTOC.htm) | [Views Of Sanctification, Charles Fitch](https://drive.google.com/open?id=1ysFSDDWakJbaeagD6KDRIdR7zHNZYfu8) | [Lessons on Faith, Jones and Waggoner](https://drive.google.com/open?id=1xx_A6o8IDnDbW5eCE2cb_CgRtmj-4kci) 
 [The Evolution Handbook, Vance Ferrell](https://drive.google.com/open?id=1LrffqDtDOtx6UyAU-NaO65SIP4ODSNue) | [Fathers of the Catholic Church, E.J. Waggoner](https://drive.google.com/open?id=0B7riwQiqkPFHSkUweUxvM3JHVGs) | [Introduction to Revelation](https://drive.google.com/open?id=1p2NAm_NL8r7kn-e5NoBz8PjvDbgDh9cX) 

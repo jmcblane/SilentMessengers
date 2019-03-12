@@ -23,6 +23,8 @@ url: "http://silentmessengers.org" # the base hostname & protocol for your site,
 #github_username:  jmcblane
 #youtube_username: channel/UCZ6L_XihHmhY5DuA5FoZpkw
 
+disqus_shortname: silent-messengers
+
 minima:
     social_links:
         youtube_channel: UCZ6L_XihHmhY5DuA5FoZpkw
